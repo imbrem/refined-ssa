@@ -9,7 +9,7 @@ package «refined-ssa» where
   -- add any additional package configuration options here
 
 require mathlib from git
-  "https://github.com/leanprover-community/mathlib4.git" @ "v4.15.0"
+  "https://github.com/leanprover-community/mathlib4.git"
 
 require discretion from git
   "https://github.com/imbrem/discretion.git" @ "main"
